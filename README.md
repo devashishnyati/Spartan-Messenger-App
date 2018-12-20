@@ -1,10 +1,10 @@
-Run Spartan Server
+#### Run Spartan Server
 
-python3 server.py
+##### python3 server.py
 Spartan server started on port 3000.
 
-Alice's Terminal
+##### Alice's Terminal
 python3 client.py alice
 
-Bob's Terminal
+##### Bob's Terminal
 python3 client.py bob
